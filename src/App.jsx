@@ -1,11 +1,11 @@
 import React from 'react';
-import Chips from './Chips';
+import Chips from './ChipsComponent';
 
 const App = () => {
   return (
     <div className='flex justify-center m-6'>
          
-    <Chips />
+       <Chips />
     </div>
   )
 }
